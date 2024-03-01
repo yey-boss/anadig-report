@@ -1,0 +1,68 @@
+[
+  {
+    "stepRecords": [
+    ],
+    "scaleX": 1,
+    "scaleY": 1,
+    "orientation": 0,
+    "topOffset": 0,
+    "width": 21,
+    "axesPosX": 1,
+    "leftOffset": 0,
+    "axesPosY": 72,
+    "dpi": 96,
+    "items": [
+      {
+        "rotation": -0.007873852737247944,
+        "contentFormat": "{\"charset\":\"GBK\",\"autoGp\":true,\"gpNum\":1,\"firstLineAlign\":\"NONE\"}",
+        "name": "元素3",
+        "x": 15,
+        "pageInfo": {
+          "disableTrans": false,
+          "leftGap": 0,
+          "alignOffsetX": 0,
+          "topGap": 0,
+          "bottomGap": 0,
+          "alignOffsetY": 0,
+          "baseLine": 0,
+          "lineGap": 7,
+          "alignOffsetXMax": 0,
+          "pageHeight": 200.66653,
+          "numShowPage": 1,
+          "pageWidth": 139.54735,
+          "space": 1,
+          "contentDir": 0,
+          "rightGapMax": 0,
+          "lineNum2": 0,
+          "selfAdaption": false,
+          "fontChance": [
+            1
+          ],
+          "fontPath": [
+            "blood8真迹2_kvenjoy_blood8.gfont"
+          ],
+          "contentAlign": "Left",
+          "pageRotateType": 0,
+          "rotation": 0,
+          "alignOffsetYMax": 0,
+          "leftGapMax": 0,
+          "lineGapOffset": 0,
+          "isDefault": false,
+          "topGapMax": 0,
+          "showPageGap": 0,
+          "selfAdaptionNoNewLine": false,
+          "lineNum": 0,
+          "fontSize": 100,
+          "rightGap": 0
+        },
+        "width": 527.4230346679688,
+        "y": 73,
+        "text": "将无源滤波电路后面带上同相比例放大电路就可以构成有源滤波电路。与无源滤波相比, 有源滤波电路有一定的电压放大倍数、带负载能力强, 可以对小信号进行处理。二阶有源低通湤波电路如图 16-1 所示。\n图 16-1 二阶有源低通憈波电路\n其频率特性表达式为:\n\n\n特征频率为:\n\n\n\n通带增益为:\n\n\n上限截至频率为：\n\n\n滤波电路的频率特性可以用频率特性测试仪方便地进行测量。如果实验室只有函数发生器、数字毫伏表、示波器, 如何测量频率特性呢? 本次实验将给出解决方案。\n\n幅频特性是指输出电压和输入电压的幅度之比与信号频率之间的函数关系。可以由此拟定幅频特性的测量方案：给滤波电路输入一个幅度恒定而频率可调的正弦信号, 用数字毫伏表测量某一频率下的输出电压值, 计算出该频率下输出电压与输入电压的比值, 从低频到高频测量多组数据, 就可以画出滤波电路的幅频特性曲线。\n\n相频特性是输出电压和输入电压的相位差与信号频率之间的函数关系。正弦信号经过滤波电路后, 与输入信号相比, 其输出电压的幅值和相位会发生变化,但是频率不会变, 即周期不变。由此可以利用示波器的光标功能进行相频特性的测量。将示波器的两个通道分别接滤波电路的输入端和输出端, 首先测试输入信号一个周期所对应的时间 $T$, 然后测试输入和输出波形在时间轴上的时间差               ,则可计算出相应的相位差值                   , 还可以观察到输入和输出波形超前与滞后, 即相位差为正值或是负值, 如图 16-2 所示。",
+        "locked": false,
+        "type": "text",
+        "height": 758.4246826171875
+      }
+    ],
+    "height": 29.700000762939453
+  }
+]

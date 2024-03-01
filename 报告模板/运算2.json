@@ -1,0 +1,68 @@
+[
+  {
+    "stepRecords": [
+    ],
+    "scaleX": 1,
+    "scaleY": 1,
+    "orientation": 0,
+    "topOffset": 0,
+    "width": 21,
+    "axesPosX": 1,
+    "leftOffset": 0,
+    "axesPosY": 72,
+    "dpi": 96,
+    "items": [
+      {
+        "rotation": -0.007873852737247944,
+        "contentFormat": "{\"charset\":\"GBK\",\"autoGp\":true,\"gpNum\":1,\"firstLineAlign\":\"NONE\"}",
+        "name": "元素3",
+        "x": 15,
+        "pageInfo": {
+          "disableTrans": false,
+          "leftGap": 0,
+          "alignOffsetX": 0,
+          "topGap": 0,
+          "bottomGap": 0,
+          "alignOffsetY": 0,
+          "baseLine": 0,
+          "lineGap": 7,
+          "alignOffsetXMax": 0,
+          "pageHeight": 200.66653,
+          "numShowPage": 1,
+          "pageWidth": 139.54735,
+          "space": 1,
+          "contentDir": 0,
+          "rightGapMax": 0,
+          "lineNum2": 0,
+          "selfAdaption": false,
+          "fontChance": [
+            1
+          ],
+          "fontPath": [
+            "blood8真迹2_kvenjoy_blood8.gfont"
+          ],
+          "contentAlign": "Left",
+          "pageRotateType": 0,
+          "rotation": 0,
+          "alignOffsetYMax": 0,
+          "leftGapMax": 0,
+          "lineGapOffset": 0,
+          "isDefault": false,
+          "topGapMax": 0,
+          "showPageGap": 0,
+          "selfAdaptionNoNewLine": false,
+          "lineNum": 0,
+          "fontSize": 100,
+          "rightGap": 0
+        },
+        "width": 527.4230346679688,
+        "y": 73,
+        "text": "对信号而言, 集成运算放大器是一个三端器件：一个同相输入端、一个反相输入端和一个输出端, 具有高输入阻抗、低输出阻抗、高增益、高共模抑制比的特点。在集成运放的输出端与输入端之间加上负反馈环节后即工作在线性区, 再利用电阻、电容、二极管、三极管等元件的不同伏安特性, 就可以构成各种不同运算关系的电路, 例如实现比例、求和、差分、积分和微分、指数和对数等基本运算。\n当集成运放构成负反馈电路后, 有 “虚短” 和 “虚断”两个分析依据, 可以据此分析计算电路输出电压与输入电压之间的运算关系。\n在实际测试运算电路的运算关系时, 也可以用“虚短”、“虚地”和“虚断”来检测和排除电路故障。\n运算电路的实际输出电压值受到芯片供电电压的限制, 运放的最大输出值:",
+        "locked": false,
+        "type": "text",
+        "height": 758.4246826171875
+      }
+    ],
+    "height": 29.700000762939453
+  }
+]
